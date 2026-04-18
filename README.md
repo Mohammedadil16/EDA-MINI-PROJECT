@@ -1,98 +1,65 @@
 # 📊 Exploratory Data Analysis (EDA)
 
-This repository contains Exploratory Data Analysis (EDA) performed on datasets to understand patterns, relationships, and insights using statistical and visualization techniques.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Rs3hBK0hFQFNN7ECyV5mONUdF0AXHNWj?usp=sharing)
+
+Run the complete EDA project with all plots directly in Google Colab.
 
 ---
 
 ## 📌 About
 
-Exploratory Data Analysis (EDA) is the process of analyzing datasets to summarize their main characteristics, often using visual methods.
-
-This project focuses on applying various EDA techniques to clean, explore, and visualize data effectively.
+This project performs Exploratory Data Analysis (EDA) to understand patterns, relationships, and insights using statistical and visualization techniques.
 
 ---
 
 ## 🛠️ Tools & Libraries
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Plotly
+- Python  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+- Plotly  
 
 ---
 
-## 🔍 EDA Techniques Used
+## 🔍 EDA Techniques
 
-* Data Cleaning
-* Handling Missing Values
-* Data Transformation
-* Encoding Categorical Data
-* Feature Engineering
-* Statistical Summary (mean, median, mode, std)
-* Correlation Analysis
-
----
-
-## 📈 Visualizations Included
-
-The project includes different types of plots for better understanding of data:
-
-* Line Chart
-* Bar Chart
-* Pie Chart
-* Histogram
-* Box Plot
-* Scatter Plot
-* Heatmap (Correlation Matrix)
+- Data Cleaning  
+- Handling Missing Values  
+- Data Transformation  
+- Feature Engineering  
+- Statistical Analysis  
+- Correlation Analysis  
 
 ---
 
-## ▶️ How to Run
+## 📈 Visualizations
 
-1. Install required libraries:
-
-   ```
-   pip install pandas numpy matplotlib seaborn plotly
-   ```
-
-2. Run the Python file:
-
-   ```
-   python filename.py
-   ```
-
-3. View the generated plots and outputs
+- Line Chart  
+- Bar Chart  
+- Pie Chart  
+- Histogram  
+- Box Plot  
+- Scatter Plot  
+- Heatmap  
 
 ---
 
-## 📂 Project Structure
+## ▶️ How to Use
 
-* Dataset file (CSV/Excel)
-* Python script / Notebook
-* Visualization outputs
-* Processed data (if any)
-
----
-
-## 📊 Purpose
-
-* Understand dataset structure and patterns
-* Identify trends and relationships
-* Detect outliers and anomalies
-* Support data-driven decision making
+1. Click the **Open in Colab** button above  
+2. Run all cells  
+3. Explore the visualizations  
 
 ---
 
 ## 📌 Note
 
-This project is created for learning and practicing data analysis techniques.
+This project is created for learning and practicing data analysis.
 
 ---
 
 ## 🔥 Stay Tuned
 
-More datasets and advanced EDA techniques will be added soon. 🚀
-
----
+More advanced EDA projects coming soon. 🚀
